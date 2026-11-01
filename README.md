@@ -100,7 +100,11 @@ ___
 ### BOM (Bill of Materials)
 When I looked get these PCBs from JLCPCB it was nearly $120 + shipping. And that is probably what you are going to get when you try to order one yourself. But because I am in Türkiye and the taxes are quite strict I will get it from my local resellers and It will cost a lot more than the JLCPCBs international amount.
 
-*Yet To Be Updated*
+Access to the full BOM spreadsheet: [Measure-One BOM (Bill Of Materail).xlsx](https://github.com/user-attachments/files/34243341/Measure-One.BOM.Bill.Of.Materail.xlsx)
+
+Total Quantity : 115
+Total Cost (USD) : $564.61
+Total Cost (TL) : 28,196.67
 
 ___
 ## License
