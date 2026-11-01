@@ -1,0 +1,25 @@
+Component,Quantity,Cost (USD),Cost (TL)
+Measure_One_Main_Body_A,5,$87.50,"4,369.37 TRY"
+Measure_One_Main_Body_B,5,$20.36,"1,016.80 TRY"
+Measure_One_Main_Body_C,5,$20.36,"1,016.80 TRY"
+Measure_One_Main_Body_D,5,$20.58,"1,027.94 TRY"
+Measure_One_Main_Body_E,5,$20.58,"1,027.94 TRY"
+Measure_One_Main_Body_F,5,$28.27,"1,411.58 TRY"
+Measure_One_Main_Body_G,5,$28.27,"1,411.58 TRY"
+Measure_One_Slider_A,5,$25.47,"1,271.89 TRY"
+Measure_One_Slider_B,5,$20.82,"1,039.58 TRY"
+Measure_One_Slider_C,5,$20.82,"1,039.58 TRY"
+Measure_One_Slider_D,5,$20.82,"1,039.58 TRY"
+Measure_One_Slider_E,5,$20.36,"1,016.80 TRY"
+Measure_One_Slider_F,5,$19.43,970.24 TRY
+Measure_One_Slider_G,5,$19.66,981.88 TRY
+Measure_One_Slider_H,5,$18.96,946.96 TRY
+Measure_One_Slider_Pointer_A,5,$30.57,"1,526.47 TRY"
+Measure_One_Slider_Pointer_B,5,$22.21,"1,109.42 TRY"
+Measure_One_Slider_Pointer_C,5,$20.13,"1,005.16 TRY"
+Measure_One_Slider_Pointer_D,5,$20.13,"1,005.16 TRY"
+Measure_One_Slider_Pointer_E,5,$20.36,"1,016.80 TRY"
+Measure_One_Slider_Pointer_F,5,$19.43,970.24 TRY
+Measure_One_Slider_Pointer_G,5,$20.58,"1,027.94 TRY"
+Measure_One_Slider_Pointer_H,5,$18.96,946.96 TRY
+Total Cost,115,$564.61,"28,196.67 TRY"
