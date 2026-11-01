@@ -202,6 +202,7 @@ ___
 Time Spent: 1 Hours 15 Minutes
 ___
 # Novermber 1 2026
+___
 I was gone for a big while. I was doing a game on stardance ysws. It was pretty fun but it ended today so I am back!
 I had the BOM and README file left. I did those. And I learned that buying PCBs in Türkiye are very very expensive. This project costc nearly 560$ because of the taxes and sutff. THATS NEARLY A MINIMUM WAGE! But I can't do anything other than hoping that HackClub will help me.
 
@@ -214,5 +215,5 @@ ___
 Now I don't have anything else to do before starting the building phase.
 But I have a lot of time to waste until I am in that phase. It takes 4 weeks to get the pcbs. ;(
 ___
-Time Spent : 30 Minutes
+Time Spent: 30 Minutes
 ___
