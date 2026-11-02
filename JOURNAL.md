@@ -1,3 +1,13 @@
+___
+**Title** : Measure-One
+
+**Author** : İbrahim Beyinli
+
+**Project Description** : A caliper that is made ONLY from PCBs
+
+**Created At** : 3 August 2026
+___
+
 # 3 August 2026 
 I researched about how to make an custom caliper, PCB manufaturing and how to make this project durable so that it can actually be a useable piece.
 
